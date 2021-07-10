@@ -1,4 +1,4 @@
 package version
 func EchoVersion()string{
-	return "v1.0.0"
+	return "v1.0.1"
 }
